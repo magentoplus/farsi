@@ -356,7 +356,8 @@ $lang = array_merge($lang, array(
 	'DATABASE_SIZE'			=> 'حجم پایگاه داده',	
 
 	// Enviroment configuration checks, mbstring related
-'ERROR_MBSTRING_FUNC_OVERLOAD'					=> 'تابع اضافه بار به طور نامناسب پیکربندی شده است',	'ERROR_MBSTRING_FUNC_OVERLOAD_EXPLAIN'			=> '<var>mbstring.func_overload</var> باید 0 یا 4 انتخاب شود، می توانید داده را از صفحه <samp>اطلاعات PHP</samp> کنترل کنید.',	'ERROR_MBSTRING_ENCODING_TRANSLATION'			=> 'Transparent character encoding به طور نامناسب پیکربندی شده است',	'ERROR_MBSTRING_ENCODING_TRANSLATION_EXPLAIN'	=> '<var>mbstring.encoding_translation</var> باید به 0 تنظیم شود . می توانید داده را از صفحه <samp>اطلاعات PHP</samp> کنترل کنید.',	'ERROR_MBSTRING_HTTP_INPUT'						=> 'HTTP input character conversion به طور نامناسب پیکربندی شده است',	'ERROR_MBSTRING_HTTP_INPUT_EXPLAIN'				=> '<var>mbstring.http_input/var> باید به <samp>pass</samp> تنظیم شود. می توانید داده را از صفحه <samp>اطلاعات PHP</samp> کنترل کنید.',	'ERROR_MBSTRING_HTTP_OUTPUT'					=> 'HTTP output character conversion به طور نامناسب پیکربندی شده است',	'ERROR_MBSTRING_HTTP_OUTPUT_EXPLAIN'			=> '<var>mbstring.http_output</var>باید به <samp>pass</samp> تنظیم شود. می توانید داده را از صفحه <samp>اطلاعات PHP</samp> کنترل کنید.',
+        'ERROR_MBSTRING_FUNC_OVERLOAD'					=> 'تابع اضافه بار به طور نامناسب پیکربندی شده است',	'ERROR_MBSTRING_FUNC_OVERLOAD_EXPLAIN'			=> '<var>mbstring.func_overload</var> باید 0 یا 4 انتخاب شود، می توانید داده را از صفحه <samp>اطلاعات PHP</samp> کنترل کنید.',	'ERROR_MBSTRING_ENCODING_TRANSLATION'			=> 'Transparent character encoding به طور نامناسب پیکربندی شده است',	'ERROR_MBSTRING_ENCODING_TRANSLATION_EXPLAIN'	=> '<var>mbstring.encoding_translation</var> باید به 0 تنظیم شود . می توانید داده را از صفحه <samp>اطلاعات PHP</samp> کنترل کنید.',	'ERROR_MBSTRING_HTTP_INPUT'						=> 'HTTP input character conversion به طور نامناسب پیکربندی شده است',
+        'ERROR_MBSTRING_HTTP_INPUT_EXPLAIN'				=> '<var>mbstring.http_input</var> باید به <samp>pass</samp> تنظیم شود. می توانید داده را از صفحه <samp>اطلاعات PHP</samp> کنترل کنید.',	'ERROR_MBSTRING_HTTP_OUTPUT'					=> 'HTTP output character conversion به طور نامناسب پیکربندی شده است',	'ERROR_MBSTRING_HTTP_OUTPUT_EXPLAIN'			=> '<var>mbstring.http_output</var>باید به <samp>pass</samp> تنظیم شود. می توانید داده را از صفحه <samp>اطلاعات PHP</samp> کنترل کنید.',
 
 
 	'FILES_PER_DAY'		=> 'تعداد پیوست در هر روز',
@@ -549,7 +550,7 @@ $lang = array_merge($lang, array(
 
 	'LOG_APPROVE_TOPIC'			=> '<strong>موضوع تایید شد</strong><br />» %s',
 	'LOG_BUMP_TOPIC'			=> '<strong>موضوع کاربر بامپ (bump) شد</strong><br />» %s',
-	'LOG_DELETE_POST'			=> '<strong>پست حذف شد</strong><br />» %2$s',
+	'LOG_DELETE_POST'			=> '<strong>حذف پست “%1$s” نوشته شده توسط “%2$s” به دلیل</strong><br />» %3$s',
 	'LOG_DELETE_SHADOW_TOPIC'	=> '<strong>موضوع سایه دار حذف شد</strong><br />» %s',
 	'LOG_DELETE_TOPIC'			=> '<strong>موضوع حذف شد</strong><br />» %2$s',
 	'LOG_FORK'					=> '<strong>موضوع کپی شد</strong><br />» from %s',
