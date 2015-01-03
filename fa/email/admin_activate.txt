@@ -11,3 +11,4 @@ Subject: فعال سازی اکانت کاربر
 {U_ACTIVATE}
 
 {EMAIL_SIG}
+
