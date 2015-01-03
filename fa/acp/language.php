@@ -65,7 +65,7 @@ $lang = array_merge($lang, array(
 	'LANG_ISO_CODE'						=> 'کد ISO',
 	'LANG_LOCAL_NAME'					=> 'نام محلی',
 
-	'MISSING_LANGUAGE_FILE'		=> 'فایل زبانی گم شده ',
+	'MISSING_LANG_FILES'		=> 'فایل زبانی گم شده ',
 	'MISSING_LANG_VARIABLES'	=> 'متغیر های بسته زبانی گم شده است',
 
 	'NO_FILE_SELECTED'				=> 'فایل زبانی را مشخص نکرده اید.',
