@@ -52,7 +52,6 @@ $lang = array_merge($lang, array(
 
 	'BEFORE'				=> 'قبل',
 
-	'CONTACT_USER'			=> 'ارتباط',
 	'CC_SENDER'			=> 'ارسال رونوشتی از این ایمیل برای من.',
 	'CONTACT_ADMIN'			=> 'تماس با مدیر کل انجمن',
 
