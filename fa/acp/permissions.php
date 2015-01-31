@@ -57,7 +57,7 @@ $lang = array_merge($lang, array(
 
 		<br />
 
-		<p>برای اطلاعات بیشتر در مورد مدیریت سطوح دسترسی در phpBB3 به <a href="https://www.phpbb.com/support/docs/en/3.1/ug/quickstart/permissions/">تنظیمات سطوح دسترسی - راهنمای سریع</a>.</p>
+		<p>برای اطلاعات بیشتر در مورد مدیریت سطوح دسترسی در phpBB3 به  <a href="http://www.phpbb.com/support/documentation/3.0/quickstart/quick_permissions.html"> فصل 1.5 راهنمای شروع سریع </a>مراجعه کنید.</p>
 	',
 
 	'ACL_NEVER'	                => 'هیچگاه',

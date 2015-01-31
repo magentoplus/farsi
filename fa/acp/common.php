@@ -562,7 +562,6 @@ $lang = array_merge($lang, array(
 	'LOG_LOCK_POST'				=> '<strong>پست قفل شد</strong><br />» %s',
 	'LOG_MERGE'					=> '<strong>پست ها در این موضوع ادغام شدند</strong><br />» %s',
 	'LOG_MOVE'					=> '<strong>موضوع انتقال داده شد</strong><br />» از %1$s به %2$s',
-	'LOG_MOVED_TOPIC'			=> '<strong>انتقال موضوع</strong><br />» %s',
 	'LOG_PM_REPORT_CLOSED'		=> '<strong>گزارش پیغام خصوصی بسته شد</strong><br />» %s',
 	'LOG_PM_REPORT_DELETED'		=> '<strong>گزارش پیغام خصوصی حذف شد</strong><br />» %s',
 
