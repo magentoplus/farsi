@@ -1,9 +1,9 @@
 <?php
 /**
 *
-* phpBB 3.1.X Project - Persian Translation by php-bb.ir
-* Translators: Meis@M Noubari & Ali Faraji
-* Version: 1.0.0
+* phpBB 3.1.X Project - Persian Translation
+* Translators: PHP-BB.IR Group
+* Version: 3.1.2
 *
 * @copyright (c) phpBB Limited <https://www.phpbb.com>
 * @license GNU General Public License, version 2 (GPL-2.0)
