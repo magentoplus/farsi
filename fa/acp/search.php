@@ -1,9 +1,8 @@
 <?php
 /**
 *
-* phpBB 3.1.X Project - Persian Translation by php-bb.ir
-* Translator: Meis@M Noubari & Ali Faraji
-* Version: 1.0.0
+* phpBB 3.1.X Project - Persian Translation
+* Translators: PHP-BB.IR Group
 *
 * This file is part of the phpBB Forum Software package.
 *
@@ -93,7 +92,7 @@ $lang = array_merge($lang, array(
 	'FULLTEXT_SPHINX_WRONG_DATABASE'		=> 'The sphinx search for phpBB supports MySQL and PostgreSQL only.',
 	'FULLTEXT_SPHINX_CONFIG_FILE'			=> 'Sphinx config file',
 	'FULLTEXT_SPHINX_CONFIG_FILE_EXPLAIN'	=> 'The generated content of the sphinx config file. This data needs to be pasted into the sphinx.conf which is used by sphinx search daemon. Replace the [dbuser] and [dbpassword] placeholders with your database credentials.',
-	'FULLTEXT_SPHINX_NO_CONFIG_DATA'		=> 'The sphinx data and config directory paths are not defined. Please define them to generate the config file.',
+	'FULLTEXT_SPHINX_NO_CONFIG_DATA'		=> 'The sphinx data directory path is not defined. Please define the path and submit to generate the config file.',
 
 	'GENERAL_SEARCH_SETTINGS'				=> 'تنظیمات عمومی جستجو',
 	'GO_TO_SEARCH_INDEX'					=> 'رفتن به صفحه اصلی جستجو',

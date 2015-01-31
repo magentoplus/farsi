@@ -1,9 +1,8 @@
 <?php
 /**
 *
-* phpBB 3.1.X Project - Persian Translation by php-bb.ir
-* Translator: Meis@M Noubari & Ali Faraji
-* Version: 1.0.0
+* phpBB 3.1.X Project - Persian Translation
+* Translators: PHP-BB.IR Group
 *
 * This file is part of the phpBB Forum Software package.
 *
@@ -75,6 +74,7 @@ $lang = array_merge($lang, array(
 	'NO_RECENT_SEARCHES'	=> 'اخیرا جستجو ای صورت نگرفته است.',
 	'NO_SEARCH'				=> 'با عرض پوزش نمیتوانید از بخش جستجو استفاده کنید.',
 	'NO_SEARCH_RESULTS'		=> 'نتیجه مناسبی یافت نشد.',
+	'NO_SEARCH_LOAD'		=> 'با عرض پوزش در حال حاضر امکان جستجو برای شما وجود ندارد. لود سرور بسیار سنگین شده است ، لطفا مجدد تلاش نمایید.',
 	'NO_SEARCH_TIME'		=> array(
 		1	=> 'در حال حاضر نمیتوانید جستجویی را انجام دهید،لطفا بعد از چند دقیقه دوباره امتحان کنید.',
 		2	=> 'در حال حاضر نمیتوانید جستجویی را انجام دهید،لطفا بعد از چند دقیقه دوباره امتحان کنید.',
